@@ -1,0 +1,40 @@
+.collapse{
+    font-size: larger;
+    font-family: -apple-system;
+}
+
+.carousel-inner {
+    height: 35vw;
+}
+
+.help{
+    background-image: url(../img/6d.png);
+    background-position: 200px;
+    background-repeat: no-repeat;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+
+.container {
+    font-family: lateef;
+    font-size: 20px;
+}
+
+
+.footer{
+    margin: 0px 0px;
+    background-color: #454749;
+    color: lightgray;
+}
+
+.footer-media{
+    background-color: #4C4D4E;
+}
+
